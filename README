@@ -1,0 +1,6 @@
+detailed instructions to get this running:
+
+pip install twilio
+created twilio account
+Created and used twilio.env
+TODO use environment variables for phone numbers
